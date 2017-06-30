@@ -11,6 +11,10 @@ A Windows program that can explore and extract game files from NBA2K16 and NBA2K
 - neat organized lists and UI
 - view the contents of `.iff` files
 - 32-bit and 64-bit versions in the [Releases page](https://github.com/theawesomecoder61/NBA2K17-Browser/releases)
+- extract any file or all the files in a directory or archive (`.iff` files)
+
+# Downloads
+[Go to the Releases page.](https://github.com/theawesomecoder61/NBA2K17-Browser/releases)
 
 # How to use
 *Make sure you have `.NET Framework 4.5` or newer installed. This is important, otherwise the program will not run!*
