@@ -1,6 +1,8 @@
 # NBA2K17-Browser
 A Windows program that can explore and extract game files from NBA2K16 and NBA2K17 based on [NBA2K16ExplorerWV by zeroKilo](https://github.com/zeroKilo/NBA2K16ExplorerWV).
 
+**COMING BY THE END OF AUGUST 2017**
+
 ![](http://i.imgur.com/9T9YLDo.png)
 
 # Features
