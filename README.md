@@ -16,6 +16,9 @@ A Windows program that can explore and extract game files from NBA2K16 and NBA2K
 - 32-bit and 64-bit versions in the [Releases page](https://github.com/theawesomecoder61/NBA2K17-Browser/releases)
 - extract any file or all the files in a directory or`.iff` archive files
 
+# NBA2K18 support?
+Support is quite possible.
+
 # Downloads
 [Go to the Releases page.](https://github.com/theawesomecoder61/NBA2K17-Browser/releases)
 
