@@ -8,8 +8,8 @@ A Windows program that can explore and extract game files from NBA2K16 and NBA2K
 # Features
 - fast and awesome
 - supports **NBA2K16** and **NBA2K17** on PC (via Steam)
-- view the hex data for any file
-- view the raw text for any file
+- view the hex data of any file
+- view the raw text of any file
 - view `.dds` textures
 - neat organized lists and UI
 - view the contents of `.iff` archive files
@@ -17,7 +17,7 @@ A Windows program that can explore and extract game files from NBA2K16 and NBA2K
 - extract any file or all the files in a directory or`.iff` archive files
 
 # NBA2K18 support?
-Support is quite possible.
+The game is not out yet. Support is quite possible since 2K16 and 2K17 have a similar file structure.
 
 # Downloads
 [Go to the Releases page.](https://github.com/theawesomecoder61/NBA2K17-Browser/releases)
@@ -29,7 +29,7 @@ Support is quite possible.
 3. Have fun!
 
 # Building
-1. Ensure you have these installed:
+1. Ensure you have the following installed:
 - .NET Framework 4.5
 - Visual Studio 2010 or newer
 2. Open the `.sln` file.
